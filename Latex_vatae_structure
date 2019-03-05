@@ -1,0 +1,312 @@
+\documentclass[10pt,a4paper]{article}
+
+\setlength{\oddsidemargin}{-0.2in}
+\setlength{\evensidemargin}{-0.2in}
+\setlength{\topmargin}{-0.8in}
+\setlength{\textheight}{9.9in}
+\setlength{\textwidth}{7.2in}
+\setlength{\parskip}{1.5ex plus 0.5ex minus 0.5ex}
+
+
+\begin{document}
+
+\pagestyle{empty}
+
+\flushleft{\huge{John Doe -Theoretical Makanga}}
+\vspace{0.1cm}
+\begin{tabular}{p{12.6cm}p{4.5cm}}
+\hline \\
+{\em Address:} 24021 Koinange & {\em Email:}
+\small{samplemail@sample.com} \\ 
+\hspace{1.3cm} Nairobi, Kenya & {\em Phone:}
+\small{+254-712345678} \\
+%\vspace{0.1cm}
+\hline
+\end{tabular}
+
+\vspace{-0.3cm}
+\section*{Summary}
+\vspace{-0.21cm}
+Brief summary about yourself in the depart of wherever you are. Just explain yourself well in a way that the reader we'll want to read more about your and get interest in asking you for an Interview.
+I wrote this C.V sample as a way to understand the formaating and usage of LaTex. Have a fab day.
+\vspace{-0.2cm}
+\section*{Education}
+\vspace{-0.22cm}
+\begin{itemize}
+
+\item {\bf Doctor of Philosophy(PHD) i Human Anatomy}  (\emph {Jan 2019 --
+  February 2030}) \\
+{\sc {\bf Makerere University, Mogadishu}} \\
+\emph{Grade Point Average:} 4.5 out of 5.0
+
+\item {\bf Master of Science in Mechatronic Engeneering}  (\emph{September 2018 --
+    May 2019}) \\
+{\sc {\bf Computer Engeneering, University of
+    California, USA}} \\
+%\emph{Grade Point Average:} list here
+
+\item {\bf Bachelor of Technology}  (\emph{June 2001 -- June 2005}) \\
+{\sc {\bf Lord of Rings Uiversity,
+    Zanzibar}} \\
+\emph{Honors:} $1^{st}$ rank in 2012-Feb and $2^{nd}$ rank in 2015-Aug
+in the university 
+\end{itemize}
+
+
+\vspace{-0.6cm}
+\section*{Personal Project}
+\vspace{-0.18cm}
+
+{\sc {\bf ROBOTICS Movements at MIT} \emph{(January 2016 - February 2018)}}\\
+\begin {itemize}
+\setlength{\itemsep}{-1pt}
+
+\item {\bf {Project topic:} Creating a robot automator Ipsum ipsum} \\
+\emph {Languages:} JAVA, Python, C \\
+\emph {Frameworks:} Bootstrap, Ipsum, Lorem \\
+
+\item {\bf {Project details}} 
+
+\begin {itemize}
+ \vspace{-0.1cm}
+\setlength{\itemsep}{-1pt}
+\item This is where the projects details will listed.
+
+\item More about the project.
+
+\item The robotic more info. 
+
+
+
+\end {itemize}
+
+\item {\bf {Article Publications}}
+\begin {itemize}
+ \vspace{-0.1cm}
+\setlength{\itemsep}{-1pt}
+
+\item A changed world, looking into robotics \emph {Accepted at HackerNews, March 2018} \\
+
+\item This is another publication \emph {Accepted at this blog or somewhere else, September 2018} \\ 
+
+\end {itemize}
+
+
+
+
+
+\item {\bf {Internship:} This Indeustry, Country} \emph {(Jun 2018 - Aug 2019, Jun 2019 - Jul 2020)} \\
+
+
+\begin {itemize}
+ \vspace{-0.1cm}
+\setlength{\itemsep}{-1pt}
+
+\item About what you were doing or specializing in.
+
+\item More Info about the duties or course.
+
+\end {itemize}
+
+
+
+\end {itemize}
+
+\vspace{-0.6cm}
+\section*{Professional Experience}
+\vspace{-0.12cm}
+
+{\sc {\bf Safaricom Co. Limited Company} \emph{(July 1913 -- April 2018)}}\\ 
+\emph{Supervisor:} Samahani Mteja wa nambari \\
+\vspace{0.12cm}
+
+\begin{itemize}
+\setlength{\itemsep}{-2pt}
+\item {\bf Network Engineer} \emph{(February 1913 -- April 2000)} \\
+
+% \begin{itemize}
+
+%\setlength{\itemsep}{8pt}
+
+ {\bf  {Roles and Responsibilities:}}
+ \vspace{-0.2cm}
+\begin {itemize}
+\setlength{\itemsep}{-1pt}
+\item Role one in the company. 
+\item About the role.
+\item More about the role as as you'd like.
+\end{itemize} 
+%\emph{Supervisor:} Prof. Eduardo Tovar \\
+\vspace{-0.1cm}
+
+ {\bf Selected Projects:}
+\vspace{-0.2cm}
+\begin{itemize}
+
+\item {\bf Currency Converter}
+  \emph{(February 2005 -- May 2007)} \\ 
+\vspace{-0.08cm}
+\begin{itemize}
+\setlength{\itemsep}{-1.0pt}
+\setlength{\itemindent}{-10pt}
+\setlength{\parindent}{-10pt}
+\item Created the converter to deal with euro-bond
+\item more about the project. 
+\item A little more about the project.  
+\end{itemize}
+\setlength{\parindent}{0pt}
+
+
+
+%\This is a comment
+
+\pagebreak [4]
+
+
+\setlength{\parindent}{0pt}
+
+
+\end{itemize}
+
+\item {\bf Google Intern} \emph{(Jan 2017 -June 2018)} \\
+{\sc {\bf Google, Inc.}} \\  
+\emph{Supervisor:} Dr. Jack Ma \\
+\vspace{-0.1cm}
+\begin{itemize}
+\setlength{\itemsep}{-2pt}
+\setlength{\itemindent}{-10pt}
+\setlength{\parindent}{-10pt}
+\item Worked on AI project ipsum ipsum \\ \indent and Plant automator.  
+%\item 1 end
+%  item 2
+\item One-on-one experience working with Elon Mask Karanja and jack on Neurons.
+\end{itemize}
+\setlength{\parindent}{0pt}
+
+\item {\bf Computer Engineering Intern} \emph{(May 2018 -July 2019)} \\
+{\sc {\bf Airtel Company, Nairobi}} \\  
+
+\vspace{-0.1cm}
+\begin{itemize}
+\setlength{\itemsep}{-2pt}
+\setlength{\itemindent}{-10pt}
+\setlength{\parindent}{-10pt}
+\item Studied unit processes, control systems, scale-up
+  methods, risk analysis methods and Unit testing.
+%\item Performed 
+\item Worked with cross-functional teams to gain hands-on experience
+  in security measurements, control and \\ \indent regulations.
+\end{itemize}
+
+\setlength{\parindent}{0pt}
+
+\end{itemize}
+
+%\setlength{\topmargin}{0in}
+
+\markright{\hspace{14.2cm} Abhiruchi Gadgil, Page}
+\pagestyle{myheadings}
+
+\vspace{-0.65cm}
+\section*{Professional Courses}
+
+\begin{itemize}
+\item {\bf Web Developement} \\
+\vspace{-0.1cm}
+\begin{itemize}
+
+\item {\bf Frontend Development:} Course designed by github Academy
+  more about the course.
+
+\item {\bf backend development (ISACA, ZA):}
+  Detailed coverage abut the project.  
+
+%\item skill 2
+\end{itemize}
+
+\item {\bf Modelling} \\
+\vspace{-0.1cm}
+\begin{itemize}
+
+\item {\bf Computer Modelling:} More information about the course. 
+
+
+\item {\bf Game Modelling:} More info about the course unit.
+ 
+
+
+\end{itemize}
+
+\end{itemize}
+\vspace{-0.65cm}
+
+%\section* {Other Relevant Projects to be listed}
+
+
+
+\section*{Affiliations}
+
+\begin{itemize}
+\item {\bf Affiliations} \\
+\vspace{-0.08cm}
+\begin{itemize}
+
+\item {\bf Volunteer and USAID:} Imagin8ors - EdTech start-up (2017-2018), Courage Center, Minneapolis (2011 - 2012), Greater Philadelphia Cares, an NGO
+  in Philadelphia, USA (2006-2007).  
+ 
+\item {\bf Technical Officer @ UN:} More information .e.g. place and year (2008-2012).  
+
+\item {\bf Computer Analyst:} More info about it (2018).  
+
+\end{itemize}
+
+\item {\bf Activities} \\
+\vspace{-0.08cm}
+\begin{itemize}
+
+\item Prize for best ``Course developer'' for a working model in the contest
+  Contraption at Hackerfest 2005, Lean, Germany.   
+
+\item Second activity details goes here in the same method as one. 
+
+\item Third activity details goes here in the same manner as one.  
+
+% Any additional activity should be  added as above
+
+\item Fourth activity details goes here as above.
+
+\end{itemize}
+
+\end{itemize}
+
+\vspace{-0.08cm}
+\section*{Additional Information}
+
+\vspace{-0.1cm}
+\begin{itemize}
+
+\item {\bf Key Skills:} Pen testing, Web programming. %add more skills here
+
+\item {\bf Nationality:} Japanase. %add nationality here
+
+\item {\bf Relevant language skills:} English (Fluent), Japanase
+  (Beginner), Kikuyu and Frech (Native).
+  
+\item {\bf Interests:} Programming related initiatives, blogging, classical music.
+
+\item {\bf Hobbies:} Mountain Climbing, article Writing, Swimming. %add more hobbies
+
+\end{itemize}
+
+
+\section*{References}
+
+\vspace{-0.08cm}
+\begin{itemize}
+
+\item Jack Ma - Alibaba, Kenya 
+\item May Atieno- CEO, sample company, location.
+
+\end{itemize}
+
+\end{document}
