@@ -1,7 +1,9 @@
 # latex_vatae_structure
 ________________________
-### cv structure to follow up when in a hurry to write a cv in latex
- - Init I targeted the project in mind was to write sample django programming and Interview quez
-   for practice and a place to refer.
+### cv structure in latex to follow up when in a hurry
+ - Initial project in mind was to write a sample django programming and Interview quez
+   for practice and a place to refer them.
  - Another one to contain all defination of all current programming languages in
-   in 2019 each with it's hello world code structure.
+   in the year 2019 each with it's hello world code structure.
+   
+   ####                    Coming soon!🚀
